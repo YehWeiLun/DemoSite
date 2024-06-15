@@ -1,0 +1,99 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+obj/
+bin/
+# .NET Core 3.1
+*.deps.json
+*.runtimeconfig.json
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.twf
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+.vscode/*
+
+# Rider
+.idea/
+
+# Dotnet Runtime
+.vs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# IIS Express
+/.vs/config/
+
+# IIS Express
+/IISExpress/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.userprefs
+
+# Azure DevOps
+/azdo_pipelines/
+
+# Npm Packages
+node_modules/
+
+# Yarn
+.pnp.*
+.yarn-*
+.yarn/
+__yarnrc.yaml
+
+# JetBrains Rider
+.idea/
+.idea/*
+.idea/.idea
+.idea/.idea/*
+.idea/.idea/.idea
+.idea/.idea/.idea/*
+.idea/.idea/.idea/.idea
+.idea/.idea/.idea/.idea/*
+.idea/.idea/.idea/.idea/.idea
+.idea/.idea/.idea/.idea/.idea/*
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Dotnet Runtime
+.vs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# IIS Express
+/.vs/config/
